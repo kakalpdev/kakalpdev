@@ -42,7 +42,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
 
 <table>
   <tr>
-    <td style="width: 33%; text-align: center;">
+    <td style="width: 50%; text-align: center;">
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=kakalpdev&hide=stars,issues&show=prs_merged_percentage&theme=cobalt&show_icons=true&hide_border=false&count_private=true"
@@ -50,7 +50,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
         width="100%"
       />
     </td>
-    <td style="width: 33%; text-align: center;">
+    <td style="width: 50%; text-align: center;">
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalpdev&theme=cobalt&show_icons=true&hide_border=false&langs_count=8&card_width=auto"
@@ -58,18 +58,10 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
         width="100%"
       />
     </td>
-    <td style="width: 33%; text-align: center;">
-      <br />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kakalpdev&theme=cobalt&hide_border=false"
-        alt="kakalpdev's Streak"
-        width="100%"
-      />
-    </td>
   </tr>
 </table>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kakalpdev&theme=cobalt&border_radius=12&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 ## Meus contatos
 <table>
