@@ -1,4 +1,4 @@
-## Claudinei Lopes
+# Claudinei Lopes
 
 Olá, meu nome é Claudinei Lopes, mas comumente sou conhecido por Kaká (mas não, eu não jogo futebol 🤣).
 
@@ -40,8 +40,6 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
 - ➡️ 2021: Desenvolvedor front jr
 
 
-
-
 <table>
   <tr>
     <td style="width: 33%; text-align: center;">
@@ -73,7 +71,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
 </table>
 
 
-Meus contatos
+## Meus contatos
 <table>
   <tr>
     <th>
