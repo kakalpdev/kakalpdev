@@ -45,7 +45,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
     <td style="width: 50%; text-align: center;">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=kakalpdev&hide=stars,issues&show=prs_merged_percentage&theme=cobalt&show_icons=true&hide_border=false&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=kakalpdev&hide_title=true&hide=stars,issues&show=prs_merged_percentage&theme=cobalt&show_icons=true&hide_border=false&count_private=true"
         alt="kakalpdev's Stats"
         width="100%"
       />
@@ -53,7 +53,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
     <td style="width: 50%; text-align: center;">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalpdev&theme=cobalt&show_icons=true&hide_border=false&langs_count=8&card_width=auto"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalpdev&theme=cobalt&show_icons=true&hide_border=false&hide_title=true&langs_count=8&card_width=auto"
         alt="kakalpdev's Top Languages"
         width="100%"
       />
