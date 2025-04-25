@@ -53,7 +53,7 @@ Atualmente, estou em processo de capacitação para seguir carreira na área de 
     <td style="width: 50%; text-align: center;">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalpdev&theme=cobalt&show_icons=true&hide_border=false&hide_title=true&langs_count=8&card_width=auto"
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakalpdev&layout=compact)
         alt="kakalpdev's Top Languages"
         width="100%"
       />
